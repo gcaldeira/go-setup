@@ -6,8 +6,6 @@
  
 ## Getting Started (Hello World)
 
-After install Go libs 
-
 ### Creating GoLang project basic folders
 
 ```
