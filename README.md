@@ -11,7 +11,7 @@
 ```
 mkdir go-setup
 cd go-setup
-go mod init github.com/jhon/my-project
+go mod init github.com/myname/my-app
 mkdir -p cmd/cli
 ```
 
