@@ -34,3 +34,15 @@ go build -o releases/my-app cmd/cli/main.go
 ./releases/my-app 
 Hello!
 ```
+
+### DDD Aprouch
+
+//TODO: Explanation about DDD and Clean Architecture
+
+//TODO: Talk about the folder structure
+
+## A simple cli
+
+```
+go get -u github.com/spf13/cobra/cobra
+```
